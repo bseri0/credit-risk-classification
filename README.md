@@ -1,4 +1,4 @@
-This code was generated from class lesson examples and the assistance of GPT4o.
+This code was generated from merging class lesson examples and the assistance of GPT4o.
 
 This analysis evaluates the performance of a logistic regression model in predicting loan risk. It classifies loans as either 0 or 1 as healthy or high-risk respectively. 
 Accurate high-risk loan prediction is needed for managing financial risk. 
